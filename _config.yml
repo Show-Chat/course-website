@@ -12,7 +12,7 @@ description: |
     Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
     Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
     Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/course-website/" # the subpath of your site, e.g. /blog/
 url: "https://show-chat.github.io/course-website/" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/syllabus-example/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "svmiller/course-website"
